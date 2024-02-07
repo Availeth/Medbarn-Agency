@@ -103,7 +103,16 @@
         });
     });
 
+    
 
 
 })(jQuery);
+
+
+function displayDateTime() {
+    var dateTime = new Date();
+    var date = dateTime.getFullYear();
+    document.getElementById("dateTime").innerHTML = date;
+  }
+  setInterval(displayDateTime, 1000);
 

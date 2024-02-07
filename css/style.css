@@ -297,6 +297,10 @@
     .carousel-item p {
         font-size: 14px !important;
     }
+
+    .carousel-content-btn2{
+        margin-top: 10px;
+    }
 }
 
 .page-header {
