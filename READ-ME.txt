@@ -1,0 +1,9 @@
+  =>  Template Name    : Avcreation - IT Solutions Website Template
+
+  =>  Template Link    : https://availeth.dev
+
+  =>  Template License : https://availeth.dev/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Avcreation
+
+  =>  Author Website   : https://availeth.dev
